@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Trends",
+    "description": "Easily browse github trending repos from a chrome popup."
+  },
+  "appDescription": {
+    "message": "Trends",
+    "description": "Easily browse github trending repos from a chrome popup."
+  }
+}
