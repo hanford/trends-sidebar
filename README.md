@@ -3,8 +3,8 @@
 Easily browse github trending repos from a chrome popup.
 
 All information stays local, extension is just a few lines of JavaScript. 🎉
-
-[Chrome Store](https://chrome.google.com/webstore/detail/dffakiimcpeogagieklcdchklmghdnhd) | [Landing Page](https://jackhanford.com/trends-sidebar)
+<!-- 
+[Chrome Store](https://chrome.google.com/webstore/detail/dffakiimcpeogagieklcdchklmghdnhd) | [Landing Page](https://jackhanford.com/trends-sidebar) -->
 
 ![preview](https://github.com/hanford/trends-sidebar/blob/master/preview.png)
 
